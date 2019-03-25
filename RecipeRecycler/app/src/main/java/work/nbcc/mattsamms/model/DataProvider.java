@@ -1,5 +1,7 @@
 package work.nbcc.mattsamms.model;
-
+//Matthew Samms
+//        This represents my own work and is
+//        accordance with the college academic policy
 import java.util.LinkedList;
 
 public class DataProvider {

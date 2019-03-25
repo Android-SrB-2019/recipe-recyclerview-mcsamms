@@ -1,5 +1,7 @@
 package work.nbcc.mattsamms.reciperecycler;
-
+//Matthew Samms
+//        This represents my own work and is
+//        accordance with the college academic policy
 import android.content.Context;
 import android.content.Intent;
 import android.support.annotation.NonNull;

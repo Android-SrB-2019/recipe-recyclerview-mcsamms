@@ -1,5 +1,7 @@
 package work.nbcc.mattsamms.reciperecycler;
-
+//Matthew Samms
+//        This represents my own work and is
+//        accordance with the college academic policy
 import android.support.v7.widget.DefaultItemAnimator;
 import android.support.v7.widget.LinearLayoutManager;
 import android.support.v7.widget.RecyclerView;

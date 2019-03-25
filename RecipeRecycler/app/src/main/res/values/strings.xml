@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">RecipeRecycler</string>
+    <string name="recipe_desc">Recipe Desc</string>
+    <string name="recipe_direction">Recipe Direction</string>
+    <string name="name">Name</string>
+</resources>
